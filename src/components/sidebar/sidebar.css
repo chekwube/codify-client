@@ -1,0 +1,45 @@
+img{
+    width: 60%;
+}
+
+#about{
+    margin: 5px;
+    padding-left: 5px;
+}
+
+#img-div{
+    margin: 5px 10px 5px 5px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#contact{
+    margin: 10px;
+}
+
+#categories{
+    padding-left: 10px;
+}
+
+#sidebar{
+    margin: 5px
+}
+
+.link-tag{
+    text-align: left;
+}
+
+.fa-linkedin{
+    color: #0e76a8;
+    font-size: 25px;
+}
+
+.fa-twitter{
+    color:#1DA1F2;
+    font-size: 25px;
+}
+
+.fa-github{
+    color: white;
+    font-size: 25px;
+}
